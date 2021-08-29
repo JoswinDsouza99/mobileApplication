@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicPlayerProg6</string>
+    <string name="pick_time">PICK TIME</string>
+    <string name="pick_date">PICK DATE</string>
+    <string name="do_you_like_our_app">Do you like our app</string>
+    <string-array name="favmusic">
+        <item>Rock</item>
+        <item>Indie</item>
+        <item>Pop</item>
+        <item>Country</item>
+    </string-array>
+</resources>

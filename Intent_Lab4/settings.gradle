@@ -1,0 +1,2 @@
+rootProject.name = "Intent_Lab4"
+include ':app'

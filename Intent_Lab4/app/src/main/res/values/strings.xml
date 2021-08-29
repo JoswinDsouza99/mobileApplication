@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent_Lab4</string>
+    <string name="button_send">button_send</string>
+    <string-array name="planets_array">
+        <item>Two Wheeler</item>
+        <item>Four Wheeler</item>
+        <item>Both</item>
+    </string-array>
+</resources>
