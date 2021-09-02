@@ -1,0 +1,2 @@
+rootProject.name = "MenusProg6"
+include ':app'
